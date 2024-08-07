@@ -1,4 +1,4 @@
-package se.lexicon.Lecture1;
+package se.lexicon.Lambda;
 
 @FunctionalInterface
 public interface Conditional {

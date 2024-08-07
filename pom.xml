@@ -3,7 +3,7 @@
   <modelVersion>4.0.0</modelVersion>
 
   <groupId>se.lexicon</groupId>
-  <artifactId>Lambda-Stream</artifactId>
+  <artifactId>Lambda</artifactId>
   <version>1.0-SNAPSHOT</version>
   <packaging>jar</packaging>
 

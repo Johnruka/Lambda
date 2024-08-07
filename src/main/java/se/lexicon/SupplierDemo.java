@@ -1,4 +1,4 @@
-package se.lexicon.Lecture1;
+package se.lexicon;
 
 import java.util.InputMismatchException;
 import java.util.Scanner;

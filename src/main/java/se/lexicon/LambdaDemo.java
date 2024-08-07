@@ -1,4 +1,6 @@
-package se.lexicon.Lecture1;
+package se.lexicon;
+
+import se.lexicon.Lambda.Conditional;
 
 public class LambdaDemo {
 
